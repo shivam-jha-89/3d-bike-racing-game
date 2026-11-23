@@ -1,5 +1,5 @@
 # MOTOMAD
-
+# Designed and developed by Shivam Kumar © 2026
 An arcade motorcycle racing game in the spirit of **Moto Racer** (Delphine
 Software / Microids, 1997) — both of its disciplines in one package: superbike
 speed on asphalt and motocross hang-time on dirt.
@@ -10,6 +10,9 @@ textures are all generated procedurally at runtime (`textures.js`: gradient
 sky domes with clouds or stars+moon, tiled ground noise, tunnel concrete,
 race-number liveries, rider leathers, helmet stripes, tyre tread).
 
+git clone - https://github.com/shivam-jha-89/3d-bike-racing-game
+
+Live Demo - https://3d-bike-racing-game-delta.vercel.app/
 ## Run it
 
 ```bash
